@@ -8,7 +8,7 @@ It basically asks the users a bunch of questions and stores the answers. These a
 
 We understand that writing a good professional email can be a difficult task and make you lose opportunities if not well written, hence we planned on tackling that issue at the basic student-professor level.
 
-![Devpost Link](https://devpost.com/software/easymail-yn4hgx)
+[Link to Devpost](https://devpost.com/software/easymail-yn4hgx)
 
 ## Group Members:
 - Tej Patel
