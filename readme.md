@@ -1,5 +1,7 @@
 # Voice Your Professional Email
 
+![](https://github.com/TejPatel98/voice_your_professional_email/blob/master/medium.png)
+
 This project was worked on during the BoilerMake 2018 Hackathon. 
 
 It basically asks the users a bunch of questions and stores the answers. These answers are used to tailor make a professional email for a student to write to their professor. 
