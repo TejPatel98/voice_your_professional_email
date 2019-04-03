@@ -2,7 +2,9 @@
 
 This project was worked on during the BoilerMake 2018 Hackathon. 
 
-It basically asks the users a bunch of questions and stores the answers. These answers are used to tailor make a professional email for a student to write to their professor. We understand that writing a good professional email can be a difficult task and make you lose opportunities if not well written, hence we planned on tackling that issue at the basic student-professor level.
+It basically asks the users a bunch of questions and stores the answers. These answers are used to tailor make a professional email for a student to write to their professor. 
+
+We understand that writing a good professional email can be a difficult task and make you lose opportunities if not well written, hence we planned on tackling that issue at the basic student-professor level.
 
 ## Group Members:
 - Tej Patel
