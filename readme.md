@@ -14,6 +14,7 @@ We understand that writing a good professional email can be a difficult task and
 - Tej Patel
 - Eric Chheang
 - Joshua Baunach
+- Dipak Darbar
 
 ## Setup
 
