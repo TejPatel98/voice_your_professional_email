@@ -1,0 +1,21 @@
+'''
+Hello!
+'''
+import speech_recognition as sr
+
+def collect_speech():
+    r = sr.Recognizer()
+    mic = sr.Microphone()
+
+    with mic as source:
+        audio = r.listen(source)
+
+    recognized_audio = r.recognize_google(audio)
+<<<<<<< HEAD
+    return recognized_audio
+=======
+    print('You said: ' + recognized_audio)
+
+if __name__ == '__main__':
+    main()
+>>>>>>> 3589384834cc3c25b19aa6e0ac6b4da35f26fce1

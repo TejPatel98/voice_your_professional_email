@@ -1,0 +1,28 @@
+Dear {professor_name},
+
+My name is {name}. I am a {grade}, majoring in {major}. I wished to discuss some opportunities related to my major and I hoped to learn more from you. 
+This is {name}. I am {grade} and currently majoring in {major}. I have been looking out for learning opportunities outside the class and wished to gain some knowledge about this from your end. 
+I am {name}; currently a {grade}, majoring in {major}. I wish to discuss my progress, and hence hoped you could be free to meet me anytime soon.
+My name is {name} and my major is {major}. Since the time is I entered my {grade} year, I have been having few problems related to the concepts, and I would like your help on that.
+
+I had you for a class and your methods really helped me understand the concepts better. Hence, I wished to talk to you about the following issue. My interests lie in {interests}. I hope to learn further in any of these fields, and require your advice regarding it. 
+I love studying about the material from you in class and hence think that I might be able to get good advice from you. My interests lie in the following {interests}; and I am hoping to further my learning experience. I would like some guidance from you.
+I hope you have been doing well. I am writing to you because I wanted some help regarding my major related interests and career paths. For some further information, things such as {interests} interest me. I want some assistance from you regarding making the path choices that I can make and that are open for me. 
+I have been finding few difficulties finding a foot in my major. Things such as {interests} attract me and I understand them well. At this point I am confused as to what shall I do and need some guidance from you regarding the next steps I need to take. To increase my academic and practical knowledge about the following.
+
+I would highly appreciate if you can take out some time from your schedule and guide me regarding the following. Please let me know if you have the time, to schedule a meeting soon.
+I would like to thank you for taking out some time and reading this email. Please let me know if you can spare some time in the coming weekends, so we can schedule a meeting and discuss about it. If yes, then what date and time works for you?
+I need this help from you and would like to know if and when would you be free so we could talk a little about it further. Hence, do let me know if you have the time to meet me, and what date or time would preferably work for you.
+I appreciate you taking out some time to read this. I hope to gain some clarity in my thoughts and goals after some advice from you. Hence please do let me know if and when would you have some time to set up a meeting, to discuss about it. 
+
+I’ll be looking forward to hearing from you. 
+I’ll be waiting to hear back from you.
+I’ll be waiting for your reply.
+I’ll look forward to your reply.
+
+Best Regards,
+Sincerely,
+Best,
+Yours truly,
+
+{name}
